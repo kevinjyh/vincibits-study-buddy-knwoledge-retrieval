@@ -42,8 +42,8 @@ file_object = client.files.create(file=open(filepath, "rb"), purpose="assistants
 # print(assis_id)
 
 # == Hardcoded ids to be used once the first code run is done and the assistant was created
-thread_id = "thread_inGWHWAOfo3yxnwNZCophiXL"
-assis_id = "asst_KPhtBJnaLiJaYqGDqnoHn9oP"
+thread_id = "thread_U4qYHAeBpAHAgUTwjTgHWLNi"
+assis_id = "asst_nlP2uuIE3IPmIApkYr1qwmiO"
 
 # == Step 3. Create a Thread
 message = "What is mining?"
